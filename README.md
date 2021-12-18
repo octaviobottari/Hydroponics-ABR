@@ -1,29 +1,11 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 
 
 
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-  <a href="https://github.com/impatrq/safe">
-    <img src="https://i.imgur.com/FX6p4Nv.png" alt="Logo" width="100" height="100">
+  <a href="https://github.com/octaviobottari/Hydroponics-ABR">
+    <img src="https://i.imgur.com/FX6p4Nv.png" alt="Logo" width="200" height="28">
   </a>
 
   <h3 align="center">Hidroponía ABR </h3>
@@ -46,7 +28,7 @@
     <li>
       <a href="#sobre-el-proyecto">About the project</a>
       <ul>
-        <li><a href="#languages">Programming languages</a></li>
+        <li><a href="#Programming languages">Programming languages</a></li>
       </ul>
     </li>
     <li>
@@ -74,9 +56,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre el Proyecto
-
-![Diagrama SAFE](media/SAFE%20Diagram.png)
+## ABOUT THE PROJECT
 
 **Hydroponics ABR (*Automated and monitored hydroponics system*)** This project is based on an automated and monitored system of a method of
 cultivation of plants that instead of soil uses water to which nutrients are provided
