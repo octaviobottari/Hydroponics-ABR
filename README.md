@@ -14,7 +14,7 @@
   <p align="center">
     Programmer:
     <br />
-    <a href="www.linkedin.com/in/octavio-bottari"><strong>Octavio Bottari</strong></a>
+     <strong>[Octavio Bottari](https://www.linkedin.com/in/octavio-bottari/)</strong>
     <br />
     <br />
   </p>
