@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/octaviobottari/Hydroponics-ABR">
-    <img src="https://i.imgur.com/FX6p4Nv.png" alt="Logo" width="200" height="50">
+    <img src="https://i.imgur.com/FX6p4Nv.png" alt="Logo" width="200" height="60">
   </a>
 
   <h3 align="center">Hidroponía ABR </h3>
