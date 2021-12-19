@@ -97,7 +97,10 @@ In order to see the data that was saved in the database, PHP was used and it was
 First, the user logs in with his account already obtained before, uploads his email to the profile and is ready to receive any type of alert.
 Second, on the web there is a monitoring of the data that is in the database that is refreshed with AJAX to always be able to see the latest data that arrives.
 
-Third, there is a section called My progress, which is where week by week you upload photos of how the plants grow.
+Third, there is a section called My progress, which is where week by week you upload photos of how the plants grow
+
+*LOGIN
+<img src="https://imgur.com/1Dqfqwr">
 
 
 ### Programming languages
