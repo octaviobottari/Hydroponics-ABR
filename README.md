@@ -99,8 +99,21 @@ Second, on the web there is a monitoring of the data that is in the database tha
 
 Third, there is a section called My progress, which is where week by week you upload photos of how the plants grow
 
-*LOGIN
+* LOGIN
 <img src="https://imgur.com/1Dqfqwr.png">
+
+* PROFILE
+<img src="https://imgur.com/1lhsdWa.png">
+
+* MONITORING
+<img src="https://imgur.com/RNq8hwc.png">
+
+* PROGRESS
+<img src="https://imgur.com/ojKMvRb.png">
+
+* MEASUREMENT GRAPHS
+<img src="https://imgur.com/R4k1b9z.png">
+
 
 
 ### Programming languages
