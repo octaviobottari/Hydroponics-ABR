@@ -100,7 +100,7 @@ Second, on the web there is a monitoring of the data that is in the database tha
 Third, there is a section called My progress, which is where week by week you upload photos of how the plants grow
 
 *LOGIN
-<img src="https://imgur.com/1Dqfqwr">
+<img src="https://imgur.com/1Dqfqwr.png">
 
 
 ### Programming languages
